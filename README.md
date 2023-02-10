@@ -4,9 +4,8 @@ The aim of the application is to create a markdown file, which will streamline t
 
 Previews: 
 
-![Getting Started](./develop/img/1.jpg)
-![Getting Started](./develop/img/2.jpg)
-
+![1](https://user-images.githubusercontent.com/117697326/217976416-3cb7334f-7af3-467b-a84e-0fbec312cdb6.jpg)
+![2](https://user-images.githubusercontent.com/117697326/217976429-4ee99963-9e96-41e8-9317-7c5ef75b301f.jpg)
 
 Video Link: https://youtu.be/MF8xt3stxSs
 
